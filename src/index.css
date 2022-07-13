@@ -52,6 +52,16 @@
   color: white;
 }
 
+@media (max-width: 450px) {
+  .location {
+    margin-top: 200px !important;
+  }
+
+  .extra-information {
+    margin-top: 50px !important;
+  }
+}
+
 
 @media (min-width: 700px) and (max-width: 850px ) {
   .search {
